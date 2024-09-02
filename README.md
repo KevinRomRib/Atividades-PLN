@@ -12,6 +12,11 @@ Criar ambiente virtual (venv):
 
 ```sh
 python -m venv env
+```
+
+Entrar no ambiente criado:
+
+```sh
 .\env\Scripts\activate
 ```
 
