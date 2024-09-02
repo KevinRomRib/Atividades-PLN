@@ -31,3 +31,20 @@ No arquivo "main.py", na linha 4, especificamos o nome do arquivo de texto a ser
 ```sh
 python .\main.py
 ```
+## Respostas das perguntas do problema:
+
+<strong><p>Em PNL, como são chamadas as palavras que ocorrem com muita frequência e que podem não agregar muito significado?</p></strong>
+<p><strong>R:</strong> Em Processamento de Linguagem Natural (PLN), as palavras que ocorrem com muita frequência e que geralmente não agregam muito significado ao texto são chamadas de stopwords</p>
+
+<strong><p>Para o texto que você analisou (que deve conter no mínimo 2000 palavras) quais seriam essas palavras? Quais as classes dessas palavras?"</p></strong>
+<strong><p>R:</p></strong>
+  <p>- the (artigo definido)</p>
+  <p>- and (conjunção coordenativa)</p>
+  <p>- of (preposição)</p>
+  <p>- in (preposição)</p>
+  <p>- to (preposição ou infinitivo)</p>
+  <p>- a (artigo indefinido)</p>
+  <p>- it (pronome)</p>
+  <p>- was (verbo auxiliar)</p>
+  <p>- with (preposição)</p>
+  <p>- on (preposição)</p>
