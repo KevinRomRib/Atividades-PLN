@@ -10,4 +10,4 @@ tokens = toktok_tokenizer.tokenize(text)
 end_time = time.time()
 total_tokens = len(tokens)
 
-print(f"Toktok Tokens:\n {tokens} - Tempo: {end_time - start_time:.6f} segundos\n - Quantificação: {total_tokens}")
+print(f"Toktok Tokens:\n {tokens}\n - Tempo: {end_time - start_time:.6f} segundos\n - Quantificação: {total_tokens}")

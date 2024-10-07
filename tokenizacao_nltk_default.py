@@ -11,4 +11,4 @@ tokens = word_tokenize(text)
 end_time = time.time()
 total_tokens = len(tokens)
 
-print(f"NLTK Default Tokens:\n {tokens} - Tempo: {end_time - start_time:.6f} segundos\n - Quantificação: {total_tokens}")
+print(f"NLTK Default Tokens:\n {tokens}\n - Tempo: {end_time - start_time:.6f} segundos\n - Quantificação: {total_tokens}")
